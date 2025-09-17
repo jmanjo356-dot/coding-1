@@ -31,8 +31,17 @@ def example2():
 example2()  
 
 def math():
-    a = input('please enter a number: ')
+    a = input('please enter a number ')
     b = 20
     print('what is your result! ')
-    print(int(a) + b)
+    print(int(a) + int(b))
+
+# creat a function that will calculate 2 numbers
+# with differnt arithmatic operation 
+
+def calculation():
+    numx = input('please enter a number' )
+    numx2 = input('please entyer another number')
+    print(numx, numx2)
+
 

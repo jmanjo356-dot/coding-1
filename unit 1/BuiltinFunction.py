@@ -16,8 +16,8 @@ name = input('what is your name ')
 print('good morning '+ name + ' have a good day')
 
 number= input('give me a number and ill add 30 to it: ')
-print(int(number) + 30 )
+print(int(number) * 30 )
 
-len()
+
 
 # Data Casting is changing one data type to another data type 

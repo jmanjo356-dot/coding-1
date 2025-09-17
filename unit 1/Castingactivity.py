@@ -14,7 +14,7 @@ print('hello my name is ' + str(name) + ' i am ' + str(age) + ' years old')
 
 # problem 2 
 bonus = '200'   # the '' make it a string
-print(300 + int(bonus))
+print(300 + int(bonus) * int(age))
 
 # problem 3
 value = 'true'
